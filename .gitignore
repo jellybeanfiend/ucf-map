@@ -4,3 +4,4 @@ gen/
 local.properties
 proguard/
 AndroidManifest.xml
+.settings/
