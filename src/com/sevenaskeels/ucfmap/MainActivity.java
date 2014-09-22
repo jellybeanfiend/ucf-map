@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         		  new LatLng(27, -81), new LatLng(28, -82));
         LatLng center = new LatLng(28.602, -81.200);
 
-        		map.moveCamera(CameraUpdateFactory.newLatLngZoom(center, 17));
+        map.moveCamera(CameraUpdateFactory.newLatLngZoom(center, 17));
         
     }
 
